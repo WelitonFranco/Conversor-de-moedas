@@ -1,0 +1,152 @@
+{
+    "USD": {
+      "nome": "Dólar Americano",
+      "valores": {
+        "BRL": 5.26,
+        "EUR": 0.85,
+        "JPY": 110.25,
+        "GBP": 0.72,
+        "CHF": 0.93,
+        "CAD": 1.27,
+        "AUD": 1.33,
+        "CNY": 6.48,
+        "HKD": 7.76,
+        "SEK": 8.46
+      }
+    },
+    "EUR": {
+      "nome": "Euro",
+      "valores": {
+        "BRL": 6.21,
+        "USD": 1.18,
+        "JPY": 128.98,
+        "GBP": 0.83,
+        "CHF": 1.08,
+        "CAD": 1.47,
+        "AUD": 1.54,
+        "CNY": 7.49,
+        "HKD": 8.96,
+        "SEK": 9.75
+      }
+    },
+    "JPY": {
+      "nome": "Iene Japonês",
+      "valores": {
+        "BRL": 0.048,
+        "USD": 0.0091,
+        "EUR": 0.0078,
+        "GBP": 0.0065,
+        "CHF": 0.0084,
+        "CAD": 0.011,
+        "AUD": 0.011,
+        "CNY": 0.055,
+        "HKD": 0.066,
+        "SEK": 0.072
+      }
+    },
+    "GBP": {
+      "nome": "Libra Esterlina",
+      "valores": {
+        "BRL": 7.28,
+        "USD": 1.38,
+        "EUR": 1.21,
+        "JPY": 153.91,
+        "CHF": 1.30,
+        "CAD": 1.77,
+        "AUD": 1.86,
+        "CNY": 9.05,
+        "HKD": 10.83,
+        "SEK": 11.79
+      }
+    },
+    "CHF": {
+      "nome": "Franco Suíço",
+      "valores": {
+        "BRL": 5.69,
+        "USD": 1.08,
+        "EUR": 0.93,
+        "JPY": 118.70,
+        "GBP": 0.77,
+        "CAD": 1.37,
+        "AUD": 1.43,
+        "CNY": 6.95,
+        "HKD": 8.33,
+        "SEK": 9.08
+      }
+    },
+    "CAD": {
+      "nome": "Dólar Canadense",
+      "valores": {
+        "BRL": 4.17,
+        "USD": 0.79,
+        "EUR": 0.68,
+        "JPY": 87.78,
+        "GBP": 0.57,
+        "CHF": 0.73,
+        "AUD": 1.05,
+        "CNY": 5.12,
+        "HKD": 6.14,
+        "SEK": 6.68
+      }
+    },
+    "AUD": {
+      "nome": "Dólar Australiano",
+      "valores": {
+        "BRL": 3.78,
+        "USD": 0.75,
+        "EUR": 0.65,
+        "JPY": 82.53,
+        "GBP": 0.54,
+        "CHF": 0.70,
+        "CAD": 0.95,
+        "CNY": 4.87,
+        "HKD": 5.84,
+        "SEK": 6.36
+      }
+    },
+    "CNY": {
+      "nome": "Renminbi Chinês",
+      "valores": {
+        "BRL": 0.80,
+        "USD": 0.15,
+        "EUR": 0.13,
+        "JPY": 18.11,
+        "GBP": 0.11,
+        "CHF": 0.14,
+        "CAD": 0.20,
+        "AUD": 0.21,
+        "HKD": 1.20,
+        "SEK": 1.31
+      }
+    },
+    "HKD": {
+      "nome": "Dólar de Hong Kong",
+      "valores": {
+        "BRL": 0.67,
+        "USD": 0.13,
+        "EUR": 0.11,
+        "JPY": 15.09,
+        "GBP": 0.092,
+        "CHF": 0.12,
+        "CAD": 0.17,
+        "AUD": 0.18,
+        "CNY": 0.83,
+        "SEK": 1.09
+      }
+    },
+    "SEK": {
+      "nome": "Coroa Sueca",
+      "valores": {
+        "BRL": 0.59,
+        "USD": 0.12,
+        "EUR": 0.10,
+        "JPY": 13.80,
+        "GBP": 0.085,
+        "CHF": 0.11,
+        "CAD": 0.15,
+        "AUD": 0.16,
+        "CNY": 0.76,
+        "HKD": 0.92
+      }
+    }
+}
